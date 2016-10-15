@@ -1,0 +1,134 @@
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/html/bot_folder/server'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:901:3
+Error: unrecognized flag -g
+Try --help for options
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/html/bot_folder/install'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:901:3
+npm http GET https://registry.npmjs.org/debug
+npm http GET https://registry.npmjs.org/cookie-parser
+npm http GET https://registry.npmjs.org/jade
+npm http GET https://registry.npmjs.org/request
+npm http GET https://registry.npmjs.org/body-parser
+npm http GET https://registry.npmjs.org/socket.io
+npm http GET https://registry.npmjs.org/static-favicon
+npm http GET https://registry.npmjs.org/morgan
+npm http GET https://registry.npmjs.org/express
+npm http 200 https://registry.npmjs.org/debug
+npm http 200 https://registry.npmjs.org/socket.io
+npm http GET https://registry.npmjs.org/socket.io/-/socket.io-1.4.8.tgz
+npm http 200 https://registry.npmjs.org/socket.io/-/socket.io-1.4.8.tgz
+npm http 200 https://registry.npmjs.org/request
+npm http 200 https://registry.npmjs.org/morgan
+npm http 200 https://registry.npmjs.org/body-parser
+npm http 304 https://registry.npmjs.org/static-favicon
+npm WARN deprecated static-favicon@1.0.2: use serve-favicon module
+npm http 200 https://registry.npmjs.org/cookie-parser
+npm http 200 https://registry.npmjs.org/express
+npm http 200 https://registry.npmjs.org/jade
+npm WARN deprecated jade@1.3.1: Jade has been renamed to pug, please install the latest version of pug instead of jade
+npm http GET https://registry.npmjs.org/cookie/0.1.0
+npm http GET https://registry.npmjs.org/cookie-signature/1.0.3
+npm http GET https://registry.npmjs.org/bytes/0.3.0
+npm http GET https://registry.npmjs.org/raw-body
+npm http GET https://registry.npmjs.org/type-is
+npm http GET https://registry.npmjs.org/qs
+npm http 304 https://registry.npmjs.org/raw-body
+npm http 200 https://registry.npmjs.org/qs
+npm http 200 https://registry.npmjs.org/bytes/0.3.0
+npm http GET https://registry.npmjs.org/bytes/-/bytes-0.3.0.tgz
+npm http 200 https://registry.npmjs.org/cookie-signature/1.0.3
+npm http 200 https://registry.npmjs.org/bytes/-/bytes-0.3.0.tgz
+npm http GET https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.3.tgz
+npm http 200 https://registry.npmjs.org/cookie/0.1.0
+npm http 200 https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.3.tgz
+npm http GET https://registry.npmjs.org/cookie/-/cookie-0.1.0.tgz
+npm http 200 https://registry.npmjs.org/cookie/-/cookie-0.1.0.tgz
+npm http GET https://registry.npmjs.org/socket.io-client/1.4.8
+npm http GET https://registry.npmjs.org/engine.io/1.6.11
+npm http GET https://registry.npmjs.org/socket.io-adapter/0.4.0
+npm http GET https://registry.npmjs.org/has-binary/0.1.7
+npm http GET https://registry.npmjs.org/debug/2.2.0
+npm http GET https://registry.npmjs.org/socket.io-parser/2.2.6
+npm http 200 https://registry.npmjs.org/socket.io-client/1.4.8
+npm http 200 https://registry.npmjs.org/engine.io/1.6.11
+npm http GET https://registry.npmjs.org/socket.io-client/-/socket.io-client-1.4.8.tgz
+npm http GET https://registry.npmjs.org/engine.io/-/engine.io-1.6.11.tgz
+npm http 200 https://registry.npmjs.org/socket.io-client/-/socket.io-client-1.4.8.tgz
+npm http 304 https://registry.npmjs.org/has-binary/0.1.7
+npm http 200 https://registry.npmjs.org/engine.io/-/engine.io-1.6.11.tgz
+npm http 200 https://registry.npmjs.org/debug/2.2.0
+npm http 304 https://registry.npmjs.org/type-is
+npm http GET https://registry.npmjs.org/debug/-/debug-2.2.0.tgz
+npm http 200 https://registry.npmjs.org/debug/-/debug-2.2.0.tgz
+npm http 304 https://registry.npmjs.org/socket.io-parser/2.2.6
+npm http 304 https://registry.npmjs.org/socket.io-adapter/0.4.0
+npm http GET https://registry.npmjs.org/bytes
+npm http GET https://registry.npmjs.org/string_decoder
+npm http GET https://registry.npmjs.org/mime
+npm http 200 https://registry.npmjs.org/string_decoder
+npm http GET https://registry.npmjs.org/type-is/1.0.0
+npm http GET https://registry.npmjs.org/range-parser/1.0.0
+npm http GET https://registry.npmjs.org/buffer-crc32/0.2.1
+npm http GET https://registry.npmjs.org/methods/0.1.0
+npm http GET https://registry.npmjs.org/fresh/0.2.2
+npm http GET https://registry.npmjs.org/send/0.2.0
+npm http GET https://registry.npmjs.org/merge-descriptors/0.0.2
+npm http GET https://registry.npmjs.org/utils-merge/1.0.0
+npm http GET https://registry.npmjs.org/qs/0.6.6
+npm http GET https://registry.npmjs.org/escape-html/1.0.1
+npm http GET https://registry.npmjs.org/serve-static/1.0.1
+npm http GET https://registry.npmjs.org/path-to-regexp/0.1.2
+npm http GET https://registry.npmjs.org/parseurl/1.0.1
+npm http GET https://registry.npmjs.org/accepts/1.0.0
+npm http 200 https://registry.npmjs.org/mime
+npm http GET https://registry.npmjs.org/bl
+npm http GET https://registry.npmjs.org/combined-stream
+npm http GET https://registry.npmjs.org/caseless
+npm http GET https://registry.npmjs.org/extend
+npm http GET https://registry.npmjs.org/forever-agent
+npm http GET https://registry.npmjs.org/form-data
+npm http GET https://registry.npmjs.org/har-validator
+npm http GET https://registry.npmjs.org/hawk
+npm http GET https://registry.npmjs.org/isstream
+npm http GET https://registry.npmjs.org/is-typedarray
+npm http GET https://registry.npmjs.org/json-stringify-safe
+npm http GET https://registry.npmjs.org/http-signature
+npm http GET https://registry.npmjs.org/oauth-sign
+npm http GET https://registry.npmjs.org/node-uuid
+npm http GET https://registry.npmjs.org/mime-types
+npm http GET https://registry.npmjs.org/stringstream
+npm http GET https://registry.npmjs.org/tunnel-agent
+npm http GET https://registry.npmjs.org/aws-sign2
+npm http GET https://registry.npmjs.org/tough-cookie
+npm http GET https://registry.npmjs.org/aws4
+npm http 200 https://registry.npmjs.org/methods/0.1.0
+npm http 200 https://registry.npmjs.org/bytes
+npm http GET https://registry.npmjs.org/methods/-/methods-0.1.0.tgz
+npm http 200 https://registry.npmjs.org/methods/-/methods-0.1.0.tgz
+npm http 304 https://registry.npmjs.org/fresh/0.2.2
+npm http 304 https://registry.npmjs.org/range-parser/1.0.0
+npm http 304 https://registry.npmjs.org/buffer-crc32/0.2.1
+npm http 304 https://registry.npmjs.org/type-is/1.0.0
+
+> BorderLinesBot@0.0.1 start /var/www/html/bot_folder
+> node app.js
+
+Node app is running on port 80
+1215781588433003
+Failed validation. Make sure the validation tokens match.
